@@ -2,7 +2,7 @@
 
 __version__ = "0.0.1"
 
-# Copyright (c) 2009-2018, Fred Vassard <azafred@gmail.com>
+# Copyright (c) 2009-2018, Fred Vassard <fred@studyblue.com>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
