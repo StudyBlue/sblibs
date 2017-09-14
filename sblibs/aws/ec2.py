@@ -4,7 +4,7 @@ from operator import itemgetter
 def get_all_instances(region='us-east-1'):
     instances = []
     index = 1
-    conn = boto.connect_ec2()
+    conn = boto.ec2.connect_to_region(region)
     reservations = conn.get_all_instances()
     for res in reservations:
         for inst in res.instances:
