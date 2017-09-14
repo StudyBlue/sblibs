@@ -1,5 +1,5 @@
-Sample Module Repository
-========================
+StudyBlue Python Common Libraries
+=================================
 
-This simple project is an example repo for Python projects.
+A Collection of commonly used libraries to be used inside our various projects.
 
