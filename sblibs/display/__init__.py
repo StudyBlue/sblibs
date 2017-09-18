@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#
+#    Copyright © Manoel Vilela 2016
+#
+#    @project: Decorating
+#     @author: Manoel Vilela
+#      @email: manoel_vilela@engineer.com
+#
 
 """
     DECORATING: A MODULE OF DECORATORS FROM HELL
@@ -16,6 +23,12 @@
 from decorating.animation import animated, writing
 from decorating.debugging import count_time, counter, debug
 from decorating.general import cache
+
+__version__ = '0.6'
+__author__ = 'Manoel Vilela'
+__email__ = 'manoel_vilela@engineer.com'
+__url__ = 'https://github.com/ryukinix/decorating'
+
 
 __all__ = [
     'animated',

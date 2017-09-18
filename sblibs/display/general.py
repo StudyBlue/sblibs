@@ -1,5 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+#
+#    Copyright © Manoel Vilela 2016
+#
+#    @project: Decorating
+#     @author: Manoel Vilela
+#      @email: manoel_vilela@engineer.com
+#
+# pylint: disable=redefined-builtin
+# pylint: disable=invalid-name
 
 """
     An collection of usefull decorators for debug

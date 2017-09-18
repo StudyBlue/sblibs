@@ -1,6 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-
+#
+#    Copyright © Manoel Vilela 2016
+#
+#    @project: Decorating
+#     @author: Manoel Vilela
+#      @email: manoel_vilela@engineer.com
+#
+# pylint: disable=no-member
+# pylint: disable=C0103
+# pylint: disable=too-few-public-methods
 
 """
 
